@@ -1,0 +1,56 @@
+<!doctype html>
+
+<html>
+
+<head>
+<title> Microsoft Homepage </title>
+</head>
+
+<body> 
+
+<!-- Basics of developing a webpage -->
+
+<h1> Microsoft Home Page : Learning how to xHTML lol </h1>
+
+<h4> Learning Paragraphs and Line Breaks </h4>
+<p> This is paragraph 1 : The quick brown fox (This is on the first line of the paragraph) <br />
+jumped over the lazy dog (This should be on the second line of the paragraph. </p>
+
+<p> This is paragraph 2 : There is a Horizontal Rule Under This... </p>
+<hr />
+
+<!-- Text Styles -->
+
+<h4> Text Styles! </h4>
+<p>
+
+<strong> We use the "strong" tag to bold text </strong> <br />
+<em> We use the "em" (Emphasis) tag to apply italic to a text </em> <br />
+<u> We use the "u" tag to underline text </u>
+
+</p>
+<hr />
+
+<!-- Links -->
+
+<h4> Creating Links! </h4>
+<a href = "https://www.google.com"> Link to Google </a> <br />
+<a href = "testPage.html"> Link to Second Page </a>
+
+<br /> <br /> Now lets add tooltips + email links <br />
+
+<a href = "mailto:jairusmaningas@gmail.com" > Email Jairus </a> <br />
+<a href = "https://www.google.com" title = "Google" > Google with tooltip </a>
+<hr />
+
+<!-- Adding Images -->
+
+<p><h4> Adding Images </h4> <br /> Look at this beautiful Lake Taupo <br />
+<a href = "testPage.html"> <h3> CLICK HERE TO GO TO GREEN CHAIRS XD </h3> </a>
+<a href = "https://www.epicgames.com/fortnite/en-US/battle-pass/season-4"> 
+<img src = "fn_laketaupo.png" height = "300" /> </a>
+
+</p>
+
+</body>
+</html>
