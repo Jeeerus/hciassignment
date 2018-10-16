@@ -28,7 +28,7 @@ header {
 	text-decoration: none;
 	padding: 5px 20px;
 	font-family: "Roboto", sans-serif;
-	font-size: 20px;
+	font-size: 17px;
 }
 
 .titlehead {
@@ -55,7 +55,7 @@ h3 {
 	text-align: center;
 	font-family: "Roboto", sans-serif;
 	font-size: 18;
-	font-weight: 100;
+	font-weight: normal;
 }
 
 .rectangle
