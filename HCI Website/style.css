@@ -7,10 +7,19 @@
 header {
 	//background-image:linear-gradient(rgba(0,0,0,1), rgba(0,0,0,1)), url(darkgreybg.jpg);
 	background: rgb(30,30,30);
-	height: 100vh;
+	height: auto;
 	background-size: cover;
 	background-position: center;
 }
+
+body{
+	//background-image:linear-gradient(rgba(0,0,0,1), rgba(0,0,0,1)), url(darkgreybg.jpg);
+	background: rgb(30,30,30);
+	height: auto;
+	background-size: cover;
+	background-position: center;
+}
+
 
 .main-nav {
 	position: absolute;
@@ -39,14 +48,14 @@ header {
 .rectangle
 {
 	width:auto;
-	height:50;
+	height:50px;
 	background: rgb(45,45,45);
 }
 
 .titlehead {
 	position: absolute;
 	width: 100%;
-	margin-top: 130px;
+	margin-top: 75px;
 }
 
 h1 {
@@ -59,7 +68,22 @@ h1 {
 .intro {
 	position: absolute;
 	width: 100%;
-	margin-top: 250px;
+	margin-top: 200px;
+}
+
+.information {	
+	position: absolute;
+	width: 100%;
+	margin-top: 200px;
+	
+	background-color: white;
+	margin: auto;
+	
+	top: 200;
+	left:10%;
+	right:10%;
+	width: auto;
+	padding: 30;
 }
 
 h3 {
@@ -68,6 +92,49 @@ h3 {
 	font-family: "Roboto", sans-serif;
 	font-size: 18;
 	font-weight: normal;
+}
+
+h6{
+	color: black;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+	font-size: 18;
+	font-weight: normal;
+}
+	
+
+h4{
+	color: black;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+	font-size: 16;
+	font-weight: 100;
+}
+
+h5 {
+	color: white;
+	text-align: left;
+	font-family: "Roboto", sans-serif;
+	font-size: 12;
+	font-weight: 50;
+}
+
+.centre {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.ch {
+	position: fixed;
+	top:18;
+	left: 10;
+	width:100%;
+	background-color: white, 0;
+	height: 30px;
+	text-align: center;
+	padding-left: 1%;
+	padding-bottom: 3;
 }
 
 
