@@ -46,7 +46,7 @@ header {
 .titlehead {
 	position: absolute;
 	width: 100%;
-	margin-top: 150px;
+	margin-top: 130px;
 }
 
 h1 {
@@ -59,7 +59,7 @@ h1 {
 .intro {
 	position: absolute;
 	width: 100%;
-	margin-top: 300px;
+	margin-top: 250px;
 }
 
 h3 {
