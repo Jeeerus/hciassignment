@@ -58,20 +58,6 @@ body{
 	margin-top: 75px;
 }
 
-h1 {
-	color: white;
-	text-transform:uppercase;
-	text-align: center;
-	font-family: "Roboto", sans-serif;
-}
-
-h2 {
-	color: black;
-	text-align: center;
-	font-family: "Roboto", sans-serif;
-	font-weight: 100;
-}
-
 .intro {
 	position: absolute;
 	width: 100%;
@@ -93,6 +79,20 @@ h2 {
 	padding: 30;
 }
 
+h1 {
+	color: white;
+	text-transform:uppercase;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+	font-weight: 100;
+}
+
 h3 {
 	color: white;
 	text-align: center;
@@ -101,14 +101,6 @@ h3 {
 	font-weight: normal;
 }
 
-h6{
-	color: black;
-	text-align: center;
-	font-family: "Roboto", sans-serif;
-	font-size: 16;
-	font-weight: normal;
-}
-	
 
 h4{
 	color: black;
@@ -124,6 +116,14 @@ h5 {
 	font-family: "Roboto", sans-serif;
 	font-size: 12;
 	font-weight: 50;
+}
+
+h6{
+	color: black;
+	text-align: left;
+	font-family: "Roboto", sans-serif;
+	font-size: 16;
+	font-weight: normal;
 }
 
 .centre {
